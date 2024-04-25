@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 12",
+        "price": 1200,
+        "description": "The iPhone 12 is a smartphone designed, developed, and marketed by Apple Inc. It is the fourteenth generation, lower-priced iPhone, succeeding the iPhone 11. It was unveiled at a virtually held Apple Special Event at Apple Park in Cupertino, California on October 13, 2020, alongside the higher-end iPhone 12 Pro flagship devices."
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S21",
+        "price": 1000,
+        "description": "The Samsung Galaxy S21 is a flagship smartphone designed, developed, and marketed by Samsung Electronics. It is part of the Galaxy S series and was unveiled on January 14, 2021, during the Samsung Galaxy Unpacked event."
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 5",
+        "price": 800,
+        "description": "The Google Pixel 5 is a smartphone developed and marketed by Google. It is part of the Pixel series and was announced on September 30, 2020. The Pixel 5 features a 6-inch OLED display, Qualcomm Snapdragon 765G processor, and a dual-camera setup."
+    }
+]
